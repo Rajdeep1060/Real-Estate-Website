@@ -59,7 +59,7 @@ export const PropertyFeatures = ({ features }) => {
         <Property.InfoItem>
           <Property.Text>
             <Property.Span>Kitchen : </Property.Span>
-            {features.kitchen ? "Availalbe" : "Not Available"}
+            {features.kitchen ? "Available" : "Not Available"}
           </Property.Text>
         </Property.InfoItem>
       </Property.InfoContent>

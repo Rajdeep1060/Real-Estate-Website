@@ -9,16 +9,16 @@ const FooterContainer = () => {
           <Footer.Item>
             <Footer.Title>Real Home</Footer.Title>
             <Footer.Text>
-              1337 Tengecha Road,Nairobi.Imarisha Tower, Second Floor, Room 135
+            31, Museum Rd, Shanthala Nagar, Ashok Nagar,Bangalore
             </Footer.Text>
             <Footer.List>
               <Footer.ListItem>
                 <Footer.Icon name="fas fa-phone-alt" social="true" />
-                <Footer.Text>+254720843306</Footer.Text>
+                <Footer.Text>+919720843306</Footer.Text>
               </Footer.ListItem>
               <Footer.ListItem>
                 <Footer.Icon name="fab fa-whatsapp" social="true" />
-                <Footer.Text>+254720843306</Footer.Text>
+                <Footer.Text>+919720843306</Footer.Text>
               </Footer.ListItem>
               <Footer.ListItem>
                 <Footer.Icon name="far fa-envelope" social="true" />
@@ -30,7 +30,7 @@ const FooterContainer = () => {
             <Footer.Subtitle>Quick Links</Footer.Subtitle>
             <Footer.List>
               <Footer.ListItem>
-                <Footer.Anchor to="/">Home</Footer.Anchor>
+                <Footer.Anchor to="/#">Home</Footer.Anchor>
               </Footer.ListItem>
               <Footer.ListItem>
                 <Footer.Anchor to="/listing">Properties</Footer.Anchor>
